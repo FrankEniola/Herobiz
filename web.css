@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.low{
+    width: 100%;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-decoration: none;
+    padding: 0rem 2rem;
+    margin-left: 70px;
+    justify-content: space-between;
+    list-style: none;
+}
+.logo{
+    margin-top: 10px;
+}
+.list li a{
+    text-decoration: none;
+}
+.btn{
+   border: none;
+   border-radius: 10px;
+   padding: 12px;
+   background-color: rgb(92, 11, 221);
+}
+.some{
+    background-color: rgb(230,230,230);
+}
+.pic1{
+    width: 400px;
+    height: 300px;
+    margin-left: 500px;
+
+}
+.me{
+    color: blue;
+    text-align: center;
+    line-height: 20px;
+
+}
+.text1{
+    text-align: center;
+    line-height: 30px;
+}
+.btn1{
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    background-color: blue;
+    color: white;
+    margin-bottom: 50px;
+
+}
+.btn2{
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    color: black;
+    background-color: white;
+}
+.image{
+    width: 600px;
+    padding: 25px 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 100px;
+
+
+}
+.head1{
+    font-size: 20px;
+    color: black;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 0;
+    font-size: 35px;
+    justify-content: baseline;
+}
+.cat{
+    display: flex;
+}
+
+.box1{
+    width: 100%;
+    padding: 30px 50px;
+    background-color: #ccc;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: none;
+}
+.dog{
+    font-size: 20px;
+    line-height: 35px;
+    text-align: justify;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.text{
+    width:60%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    margin-bottom: none;
+}
+.bun{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(12, 99, 212);
+    padding: 10px;
+    color: white;
+    
+}
+.ceo{
+    text-align: center;
+    background-color: rgb(86,97,107);
+}
+.cir{
+    width: 400px;
+    height: auto;
+    margin-left: 480px;
+}
+.cir img{
+    border-radius: 50%;
+
+}
+.font{
+    color: rgb(187, 183, 178);
+}
+.hero{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(47,63,78);
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+}
+.hero a{
+    text-decoration: none;
+    list-style: none;
+}
+.pit{
+    text-decoration: none;
+    list-style: none;
+}
+.toy{
+    margin-left: 40px;
+    text-decoration: none;
+    list-style: none;
+}
+.glass{
+    text-decoration: none;
+    list-style: none;
+}
+.van{
+    text-decoration: none;
+    list-style: none;
+    margin-top: 20px;
+}
+.hi{
+    background: white;
+    padding: 15px 72px;
+    border: none;
+    outline: none;
+    border-radius: 15px; 
+    font-size: 17px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.you{
+    background: purple;
+    padding: 10px 12px;
+    border: none;
+    outline: none;
+    border-radius: 15px; 
+    font-size: 17px;
+    font-weight: 700;
+    cursor: pointer;
+}
